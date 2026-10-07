@@ -21,9 +21,8 @@
 
 <h3 align="center">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/OOP-red?style=for-the-badge&logo=OOP&logoColor=white" />
 <img src="https://img.shields.io/badge/Asyncio-blue?style=for-the-badge&logo=Asyncio&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/Aiogram-blue?style=for-the-badge&logo=Aiogram&logoColor=white" />
+<img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </h3>
